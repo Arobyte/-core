@@ -1,6 +1,6 @@
 # @<sub>byte</sub> core library (@<sub>core</sub>)
 
-This is a library used in [O<sub>byte</sub>](https://obyte.org) clients.  Some of the clients that require the library:
+This is a library used in [@<sub>byte</sub>](https://obyte.org) clients.  Some of the clients that require the library:
 
 * [GUI wallet](https://github.com/byteball/@byte-gui-wallet) - GUI wallet for Mac, Windows, Linux, iOS, and Android.
 * [Headless wallet](https://github.com/byteball/headless-@byte) - headless wallet, primarily for server side use.

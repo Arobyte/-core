@@ -2,14 +2,14 @@
 
 This is a library used in [O<sub>byte</sub>](https://obyte.org) clients.  Some of the clients that require the library:
 
-* [GUI wallet](https://github.com/byteball/obyte-gui-wallet) - GUI wallet for Mac, Windows, Linux, iOS, and Android.
-* [Headless wallet](https://github.com/byteball/headless-obyte) - headless wallet, primarily for server side use.
-* [O<sub>byte</sub> Relay](https://github.com/byteball/obyte-relay) - relay node for O<sub>byte</sub> network.  It doesn't hold any private keys.
-* [O<sub>byte</sub> Hub](https://github.com/byteball/obyte-hub) - hub for O<sub>byte</sub> network.  Includes the relay, plus can store and forward end-to-end encrypted messages among devices on the O<sub>byte</sub> network.
+* [GUI wallet](https://github.com/byteball/@byte-gui-wallet) - GUI wallet for Mac, Windows, Linux, iOS, and Android.
+* [Headless wallet](https://github.com/byteball/headless-@byte) - headless wallet, primarily for server side use.
+* [@<sub>byte</sub> Relay](https://github.com/byteball/@byte-relay) - relay node for @<sub>byte</sub> network.  It doesn't hold any private keys.
+* [@<sub>byte</sub> Hub](https://github.com/byteball/@byte-hub) - hub for @<sub>byte</sub> network.  Includes the relay, plus can store and forward end-to-end encrypted messages among devices on the @<sub>byte</sub> network.
 
 ## Developer guides
 
-See the [Developer resources site](https://developer.obyte.org).  Also, you'll find loads of examples in other [O<sub>byte</sub> repositories](https://github.com/byteball). For internal APIs, see the `exports` of node.js modules.
+See the [Developer resources site](https://developer.@byte.org).  Also, you'll find loads of examples in other [@<sub>byte</sub> repositories](https://github.com/byteball). For internal APIs, see the `exports` of node.js modules.
 
 This repo is normally used as a library and not installed on its own, but if you are contributing to this project then fork, `git pull`, `npm install`, and `npm test` to run the tests.
 

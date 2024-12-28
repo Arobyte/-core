@@ -29,7 +29,7 @@ This is the list of some of the settings that the library understands (your app 
 
 #### conf.port
 
-The port to listen on.  If you don't want to accept incoming connections at all, set port to `null`, which is the default.  If you do want to listen, you will usually have a proxy, such as nginx, accept websocket connections on standard port 443 and forward them to your O<sub>byte</sub> daemon that listens on port 6611 on the local interface.
+The port to listen on.  If you don't want to accept incoming connections at all, set port to `null`, which is the default.  If you do want to listen, you will usually have a proxy, such as nginx, accept websocket connections on standard port 443 and forward them to your @<sub>byte</sub> daemon that listens on port 6611 on the local interface.
 
 #### conf.storage
 

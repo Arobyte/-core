@@ -54,7 +54,7 @@ Work as light client (`true`) or full node (`false`).  The default is full clien
 
 #### conf.bServeAsHub
 
-Whether to serve as hub on the O<sub>byte</sub> network (store and forward e2e-encrypted messages for devices that connect to your hub).  The default is `false`.
+Whether to serve as hub on the @<sub>byte</sub> network (store and forward e2e-encrypted messages for devices that connect to your hub).  The default is `false`.
 
 #### conf.myUrl
 
